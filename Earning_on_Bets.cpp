@@ -43,7 +43,7 @@ int main()
      {    
           cin >> n;
           for (int i = 1; i <= n; i++) cin >> a[i];
-          ll left = n, right = 50 * 1e9;
+          ll left = n, right = n * 1e9;
           while (right - left > 1)
           {
                ll mid = (left + right) / 2;

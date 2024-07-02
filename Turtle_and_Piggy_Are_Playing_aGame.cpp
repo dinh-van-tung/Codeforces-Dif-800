@@ -29,7 +29,7 @@ int main()
 {
      ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
      //freopen("STRING.inp", "r", stdin); freopen("STRING.out", "w", stdout);
-     freopen("VTung.input", "r", stdin); freopen("VTung.output", "w", stdout);
+     //freopen("VTung.input", "r", stdin); freopen("VTung.output", "w", stdout);
 
      cin >> t;
      while (t--)
